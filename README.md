@@ -1,5 +1,5 @@
 
-## Olá! Meu nome é Alex e tenho 28 anos, atualmente trabalho no varejo farmacêutico e estou em busca da transição de carreira, sempre fui apaixonado por tecnologia e atualmento cursando ADS no quinto semestre estou buscando mais oportunidades como Bootcamps e afins para me aprofundar mais na área de tecnologia.
+## Olá! Meu nome é Alex e tenho 29 anos, atualmente trabalho no varejo farmacêutico e estou em busca da transição de carreira, sempre fui apaixonado por tecnologia e atualmento cursando ADS no quinto semestre estou buscando mais oportunidades como Bootcamps e afins para me aprofundar mais na área de tecnologia.
 
 ### Tecnologias e Ferramentas
 
